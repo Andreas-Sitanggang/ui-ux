@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0" version="27.0.6" pages="4">
   <diagram name="Login" id="4VsAKsiLAP35pbw0z370">
-    <mxGraphModel dx="864" dy="1057" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="583" math="0" shadow="0">
+    <mxGraphModel dx="864" dy="474" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="583" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -24,9 +24,6 @@
         </mxCell>
         <mxCell id="i6tueHsY6IUvETSYseBb-5" value="Login" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;container=0;" parent="RNa07q-TBflRRzehqwC8-1" vertex="1">
           <mxGeometry y="96.08695652173913" width="203.48" height="33.91304347826087" as="geometry" />
-        </mxCell>
-        <mxCell id="7h-jcLQDVIVBZXyKxJB9-1" value="this change" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="383" y="-66" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -211,7 +211,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="RUvWr_mHyeSq8L7FGC5l" name="Menu - Admin">
-    <mxGraphModel dx="596" dy="910" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="583" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1920" dy="1636" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="583" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3202,11 +3202,20 @@
         <mxCell id="Du-A1UmTq7k0phXXZMJb-4" value="&lt;div style=&quot;text-align: right;&quot;&gt;../menu/master-menu-insert&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontStyle=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
           <mxGeometry x="1724" y="4752" width="154" height="16" as="geometry" />
         </mxCell>
-        <mxCell id="Vr8pa2FhYXAC1UXWkvwQ-1" value="menu/" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontSize=10;container=0;align=left;" vertex="1" parent="1">
+        <mxCell id="Vr8pa2FhYXAC1UXWkvwQ-1" value="menu/" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontSize=10;container=0;align=left;" parent="1" vertex="1">
           <mxGeometry x="1278.7925187032422" y="4996" width="160.20748129675815" height="13.406593406593405" as="geometry" />
         </mxCell>
-        <mxCell id="Vr8pa2FhYXAC1UXWkvwQ-2" value="URL Slug" style="text;html=1;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontSize=10;container=0;" vertex="1" parent="1">
+        <mxCell id="Vr8pa2FhYXAC1UXWkvwQ-2" value="URL Slug" style="text;html=1;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontSize=10;container=0;" parent="1" vertex="1">
           <mxGeometry x="1170.2" y="4996" width="103.22992518703244" height="13.406593406593405" as="geometry" />
+        </mxCell>
+        <mxCell id="5FzznybsNjZOjCE0gODo-1" value="&lt;div style=&quot;text-align: right;&quot;&gt;../menu/master-register-user&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontStyle=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="111" y="-481" width="156" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="5FzznybsNjZOjCE0gODo-2" value="&lt;div style=&quot;text-align: right;&quot;&gt;../menu/master-register-user&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontStyle=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="882" y="-481" width="156" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="5FzznybsNjZOjCE0gODo-3" value="&lt;div style=&quot;text-align: right;&quot;&gt;../menu/master-register-user&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontStyle=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="1710" y="-478" width="156" height="16" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

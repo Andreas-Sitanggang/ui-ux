@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0" version="27.0.6" pages="4">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="27.1.5" pages="4">
   <diagram name="Login" id="4VsAKsiLAP35pbw0z370">
     <mxGraphModel dx="864" dy="474" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="583" math="0" shadow="0">
       <root>
@@ -211,7 +211,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="RUvWr_mHyeSq8L7FGC5l" name="Menu - Admin">
-    <mxGraphModel dx="1920" dy="1636" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="583" background="none" math="0" shadow="0">
+    <mxGraphModel dx="715" dy="973" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="583" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2615,7 +2615,7 @@
         <mxCell id="-6R88886w5AIWCiX_MWP-18" value="&lt;span style=&quot;text-align: right;&quot;&gt;0-00. Register User/Admin&amp;nbsp;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
           <mxGeometry x="67" y="-508" width="295.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="-6R88886w5AIWCiX_MWP-19" value="Identitas Bank atau Kantor" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontSize=10;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="-6R88886w5AIWCiX_MWP-19" value="Register User" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontSize=10;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1022.5" y="-390.75" width="539" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-6R88886w5AIWCiX_MWP-20" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Simpan&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
@@ -2705,7 +2705,7 @@
         <mxCell id="-6R88886w5AIWCiX_MWP-87" value="" style="shape=actor;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
           <mxGeometry x="747.1500000000001" y="-434.56999999999994" width="10.85" height="13.06" as="geometry" />
         </mxCell>
-        <mxCell id="-6R88886w5AIWCiX_MWP-88" value="Identitas Bank atau Kantor" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontSize=10;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="-6R88886w5AIWCiX_MWP-88" value="Register User" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontSize=10;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="212.5" y="-382.53999999999996" width="539" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-6R88886w5AIWCiX_MWP-89" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Edit&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
@@ -2828,7 +2828,7 @@
         <mxCell id="-6R88886w5AIWCiX_MWP-122" value="" style="shape=actor;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
           <mxGeometry x="2385.02" y="-444.57" width="10.85" height="13.06" as="geometry" />
         </mxCell>
-        <mxCell id="-6R88886w5AIWCiX_MWP-123" value="Identitas Bank atau Kantor" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontSize=10;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="-6R88886w5AIWCiX_MWP-123" value="Register User" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontSize=10;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1850.37" y="-392.54" width="539" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-6R88886w5AIWCiX_MWP-124" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Simpan&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" parent="1" vertex="1">
@@ -3208,13 +3208,13 @@
         <mxCell id="Vr8pa2FhYXAC1UXWkvwQ-2" value="URL Slug" style="text;html=1;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontSize=10;container=0;" parent="1" vertex="1">
           <mxGeometry x="1170.2" y="4996" width="103.22992518703244" height="13.406593406593405" as="geometry" />
         </mxCell>
-        <mxCell id="5FzznybsNjZOjCE0gODo-1" value="&lt;div style=&quot;text-align: right;&quot;&gt;../menu/master-register-user&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontStyle=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+        <mxCell id="5FzznybsNjZOjCE0gODo-1" value="&lt;div style=&quot;text-align: right;&quot;&gt;../menu/master-register-user&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontStyle=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
           <mxGeometry x="111" y="-481" width="156" height="16" as="geometry" />
         </mxCell>
-        <mxCell id="5FzznybsNjZOjCE0gODo-2" value="&lt;div style=&quot;text-align: right;&quot;&gt;../menu/master-register-user&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontStyle=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+        <mxCell id="5FzznybsNjZOjCE0gODo-2" value="&lt;div style=&quot;text-align: right;&quot;&gt;../menu/master-register-user&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontStyle=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
           <mxGeometry x="882" y="-481" width="156" height="16" as="geometry" />
         </mxCell>
-        <mxCell id="5FzznybsNjZOjCE0gODo-3" value="&lt;div style=&quot;text-align: right;&quot;&gt;../menu/master-register-user&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontStyle=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+        <mxCell id="5FzznybsNjZOjCE0gODo-3" value="&lt;div style=&quot;text-align: right;&quot;&gt;../menu/master-register-user&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontStyle=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
           <mxGeometry x="1710" y="-478" width="156" height="16" as="geometry" />
         </mxCell>
       </root>
